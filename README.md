@@ -1,5 +1,9 @@
-# check-contact-telegram-bot
-Checks the user in the database by phone number
+<h2 align="center">Description</h2>
+<p align="center">Checks the user in the database by phone number</p>
+
+<h2 align="center">Install dependences</h2>
+
+<p align="center">https://github.com/python-telegram-bot/python-telegram-bot - Telegram Bot Api</p>
 
 <h2 align="center">Preview the database</h2>
 
@@ -8,3 +12,5 @@ Checks the user in the database by phone number
 <h2 align="center">Preview bot</h2>
 
 <p align="center"><img src="https://user-images.githubusercontent.com/37187657/173786940-d3b0a798-7ca6-4370-af87-dd7b2de9680c.png" /></p>
+
+Created by SniffRx
